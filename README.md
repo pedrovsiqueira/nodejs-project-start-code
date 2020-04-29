@@ -27,8 +27,6 @@
 10. Instalar editorconfig dentro do vscode e clicar com botão direito e adicionar arquivo .editorconfig
 11. Rodar o comando yarn add eslint -D
 12. Fazer as configurações abaixo para configurar o eslint
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ff00d9f-0c37-4c47-ac88-36913c09a0b9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ff00d9f-0c37-4c47-ac88-36913c09a0b9/Untitled.png)
    <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4ff00d9f-0c37-4c47-ac88-36913c09a0b9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200429%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200429T172130Z&X-Amz-Expires=86400&X-Amz-Signature=1e46647e80ff050d852ddc746ccd0f78b5dab01a28f5019180e08cb56cb92364&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22"/>
 
 13. Rodar o comando yarn add -D @typescript-eslint/eslint-plugin@latest eslint-config-airbnb-base@latest eslint-plugin-import@^2.20.1 @typescript-eslint/parser@latest
