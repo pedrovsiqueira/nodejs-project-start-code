@@ -1,7 +1,7 @@
-## Se você clonou esse projeto basta rodar um yarn add e alterar o "name": "primeiro-projeto-node" dentro do arquivo package.json. Para inicializar o servidor basta rodar o comando yarn dev:server
-  
-
-
+## Se você clonou esse projeto 
+1. Rode o comando yarn add dentro da pasta.
+2. Altere "name": "primeiro-projeto-node" dentro do arquivo package.json para o nome da sua aplicação. 
+3. Para inicializar o servidor basta rodar o comando yarn dev:server
 
 ## Começando um projeto Node do zero
 
